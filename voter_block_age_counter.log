@@ -1,0 +1,33 @@
+D:\ocr_project>python "voter_block_age_counter.py"
+Found PDFs: 2
+
+PROCESSING 2026-EROLLGEN-S11-67-SIR-DraftRoll-Revision1-MAL-6-WI.pdf → pages: 25
+Page 3 → Blocks: 30
+Page 4 → Blocks: 30
+Page 5 → Blocks: 30
+Page 6 → Blocks: 30
+Page 7 → Blocks: 30
+Page 8 → Blocks: 30
+Page 9 → Blocks: 30
+Page 10 → Blocks: 30
+Page 11 → Blocks: 30
+Page 12 → Blocks: 30
+Page 13 → Blocks: 30
+Page 14 → Blocks: 30
+Page 15 → Blocks: 30
+Page 16 → Blocks: 30
+Page 17 → Blocks: 30
+Page 18 → Blocks: 30
+Page 19 → Blocks: 30
+Page 20 → Blocks: 30
+Page 21 → Blocks: 30
+Page 22 → Blocks: 30
+Page 23 → Blocks: 30
+Page 24 → Blocks: 25
+Page 25 → Blocks: 1
+
+PROCESSING image.pdf → pages: 1
+
+✅ DONE
+Total members saved: 656
+Excel file: voter_member_wise_report_20260130_205958.xlsx
